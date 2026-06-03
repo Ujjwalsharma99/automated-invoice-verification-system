@@ -1,0 +1,6 @@
+invoice_no,vendor_name,invoice_date,amount
+INV001,ABC Traders,2026-05-25,950
+INV002,XYZ Services,2026-08-10,1200
+INV003,Ram Enterprise,2026-05-20,-500
+INV004,Sharma Traders,2026-05-18,0
+INV005,Delhi Suppliers,2026-05-22,700
